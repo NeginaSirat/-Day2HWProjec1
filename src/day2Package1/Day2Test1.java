@@ -5,7 +5,7 @@ public class Day2Test1 {
 		System.out.println("testing.....");
 	}
 
-	public void test() {
+	public void test1() {
 		System.out.println("my stash test");
 	}
 	
